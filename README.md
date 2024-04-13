@@ -1,7 +1,5 @@
-<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/Meroser.png">
-
 # IPTV📺
-欢迎来到Troray的直播源仓库🎉
+欢迎来到直播源仓库🎉
 
 🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
 
@@ -16,22 +14,12 @@
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Troray/IPTV">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Troray/IPTV">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Troray/IPTV">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Troray/IPTV">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Troray/IPTV">
-<img alt="GitHub" src="https://img.shields.io/github/license/Troray/IPTV">
-</p>
-
 ## 🏄‍♀️源地址
 
 
-|     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
+|     📦 名称      |                         🔗直播源地址                          | 🅿状态   | 
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/IPTV.m3u) |   239   | 🌕日常更新 | 2024.02.27 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/IPTV-tvbox.txt) |   239   | 🌕日常更新 | 2024.02.27 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/IPTV.m3u) | 🌕日常更新 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -55,14 +43,6 @@
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈详情版目前仅提供gz版，每日00:40左右自动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
-### 📝关于TVBOX和DIYP上的EPG接口
-
-- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
-
-- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
-
-<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
-
 <img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/IPTV_Player.png">
 
 ## 🎬IPTV播放器
@@ -84,16 +64,10 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img2.jpg"></p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img3.jpg"></p>
 
-## 🆕更新
-- 2024.02.27 新增重温经典🎈🎈/新增上海/RT频道 PS：河南地方台测试有问题移除
-- 2024.02.18 新增山西、黑龙江地方台
-- 2024.02.01 移除失效上海台
-- 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
-- 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
-
 
 ## 💡致谢：
 - 原始仓库：[https://github.com/Meroser/My-EPG](https://github.com/Meroser/My-EPG)[`原始仓库`]
+- 后续仓库：[https://github.com/Troray/IPTV](https://github.com/Troray/IPTV)[`特别感谢`]
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
 - wcb1969：[https://github.com/wcb1969/iptv](https://github.com/wcb1969/iptv)[`特别感谢`]
 - fanmingming：[https://github.com/fanmingming/live](https://github.com/fanmingming/live)[`特别感谢`]
