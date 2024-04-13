@@ -19,15 +19,13 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🅿状态 |
 | :-------------: | :----------------------------------------------------------: | :-----: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/IPTV.m3u) | 🌕日常更新 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u) | 🌕日常更新 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/IPTV.m3u`[推荐✨]
-
-链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u`[推荐✨]
 
 ## 🛠️EPG
 
@@ -43,7 +41,7 @@
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈详情版目前仅提供gz版，每日00:40左右自动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
-<img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/IPTV_Player.png">
+<img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/busyrock/IPTV@main/img/IPTV_Player.png">
 
 ## 🎬IPTV播放器
 📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
@@ -60,9 +58,9 @@
 
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img1.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img2.jpg"></p>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/Troray/IPTV@main/img/img3.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/busyrock/IPTV@main/img/img1.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/busyrock/IPTV@main/img/img2.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/busyrock/IPTV@main/img/img3.jpg"></p>
 
 
 ## 💡致谢：
