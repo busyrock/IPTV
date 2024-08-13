@@ -33,11 +33,7 @@
 
 ### 📆EPG文件地址[tvxml格式]：
 - **稳定版：** 稳定、定时更新、信息准确🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Troray/IPTV/main/tvxml.xml`
-- **详情版：** 内容详细、定时更新、尝鲜🎈
-  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
-  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+  - `https://live.fanmingming.com/e.xml`[推荐✨]
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈详情版目前仅提供gz版，每日00:40左右自动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
