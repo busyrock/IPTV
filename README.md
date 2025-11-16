@@ -19,13 +19,13 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🅿状态 |
 | :-------------: | :----------------------------------------------------------: | :-----: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u) | 🌕日常更新 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://gh-proxy.com/raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u) | 🌕日常更新 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u`[推荐✨]
+链接[IPv6]：`https://gh-proxy.com/raw.githubusercontent.com/busyrock/IPTV/main/IPTV.m3u`[推荐✨]
 
 ## 🛠️EPG
 
